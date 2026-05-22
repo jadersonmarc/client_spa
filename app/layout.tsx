@@ -8,8 +8,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 const _playfair = Playfair_Display({ subsets: ["latin"], weight: ["400", "500", "600", "700"] });
 
 export const metadata: Metadata = {
-  title: 'Advocacia de Elite | Excelência Jurídica',
-  description: 'Escritório de advocacia de elite com atendimento inteligente 24 horas. Soluções jurídicas personalizadas com excelência e dedicação.',
+  title: 'Camargo e D`Paula | Excelência Jurídica',
+  description: 'Escritório Camargo e D`Paula com atendimento inteligente 24 horas. Soluções jurídicas personalizadas com excelência e dedicação.',
   generator: 'v0.app',
   icons: {
     icon: [

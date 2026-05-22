@@ -17,7 +17,7 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-2 group">
               <Scale className="size-6 text-primary transition-transform group-hover:scale-105" />
               <span className="font-serif text-lg font-semibold text-foreground">
-                Advocacia Elite
+                Camargo e D`Paula
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">

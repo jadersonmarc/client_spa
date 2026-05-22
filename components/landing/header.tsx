@@ -18,7 +18,7 @@ export function Header() {
           <Link href="/" className="flex items-center gap-2.5 group">
             <Scale className="size-7 text-primary transition-transform group-hover:scale-105" />
             <span className="font-serif text-xl font-semibold text-foreground tracking-tight">
-              Advocacia Elite
+              Camargo e D`Paula
             </span>
           </Link>
 
